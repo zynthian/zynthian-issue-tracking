@@ -3,6 +3,8 @@
 |[NEW BUG REPORT](https://github.com/zynthian/zynthian-issue-tracking/issues/new?template=bug_report.md)|[NEW FEATURE REQUEST](https://github.com/zynthian/zynthian-issue-tracking/issues/new?template=feature_request.md)|[NEW QUESTION](https://discourse.zynthian.org)|
 |---|---|---|
 
+Please, don't create tickets in the other zynthian repositories. All tickets should be created from here.
+
 ## Kanban Boards & Issue Lists
 
 |[Global](https://github.com/zynthian)|[Kanban](https://github.com/orgs/zynthian/projects/1)|[List](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Azynthian)|
