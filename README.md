@@ -1,10 +1,10 @@
 ## Zynthian Issue Tracking
 
-[NEW BUG](https://github.com/zynthian/zynthian-issue-tracking/issues/new?template=bug_report.md) | [NEW FEATURE](https://github.com/zynthian/zynthian-issue-tracking/issues/new?template=feature_request.md) | [NEW QUESTION](https://discourse.zynthian.org)
+|[NEW BUG](https://github.com/zynthian/zynthian-issue-tracking/issues/new?template=bug_report.md)|[NEW FEATURE](https://github.com/zynthian/zynthian-issue-tracking/issues/new?template=feature_request.md)|[NEW QUESTION](https://discourse.zynthian.org) |
 
-### [Global](https://github.com/zynthian)
-- [Kanban](https://github.com/orgs/zynthian/projects/1)
-- [List](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Azynthian) 
+||Kanban|List|
+|---|---|---|
+|[Global](https://github.com/zynthian)|[Kanban](https://github.com/orgs/zynthian/projects/1)|[List](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Azynthian)|
 
 ### [zynthian-ui](https://github.com/zynthian/zynthian-ui)
 - [Kanban](https://github.com/orgs/zynthian/projects/1?card_filter_query=repo%3Azynthian%2Fzynthian-ui)
