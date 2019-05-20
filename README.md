@@ -3,7 +3,7 @@
 |[NEW BUG REPORT](https://github.com/zynthian/zynthian-issue-tracking/issues/new?template=bug_report.md)|[NEW FEATURE REQUEST](https://github.com/zynthian/zynthian-issue-tracking/issues/new?template=feature_request.md)|[NEW QUESTION](https://discourse.zynthian.org)|
 |---|---|---|
 
-Please, don't create tickets in the other zynthian repositories. All tickets should be created from here.
+Please, don't create tickets from other zynthian repositories. All tickets should be created from here.
 
 ## Kanban Boards & Issue Lists
 
