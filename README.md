@@ -7,7 +7,7 @@ Please, don't create tickets from other zynthian repositories. All tickets shoul
 
 ## Kanban Boards & Issue Lists
 
-|[Global](https://github.com/zynthian)|[Kanban](https://github.com/orgs/zynthian/projects/1)|[List](https://github.com/issues?fullscreen=true&q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Azynthian)|
+|[Global](https://github.com/zynthian)|[Kanban](https://github.com/orgs/zynthian/projects/1?fullscreen=true)|[List](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Azynthian)|
 |:---|:---|:---|
 |[zynthian-ui](https://github.com/zynthian/zynthian-ui)|[Kanban](https://github.com/orgs/zynthian/projects/1?fullscreen=true&card_filter_query=repo%3Azynthian%2Fzynthian-ui)|[List](https://github.com/zynthian/zynthian-ui/issues)|
 |[zynthian-sys](https://github.com/zynthian/zynthian-sys)|[Kanban](https://github.com/orgs/zynthian/projects/1?fullscreen=true&card_filter_query=repo%3Azynthian%2Fzynthian-sys)|[List](https://github.com/zynthian/zynthian-sys/issues)|
