@@ -2,8 +2,9 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'Bug'
 assignees: ''
+projects: 'https://github.com/orgs/zynthian/projects/1'
 
 ---
 
