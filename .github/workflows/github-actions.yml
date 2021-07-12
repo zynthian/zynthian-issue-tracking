@@ -1,0 +1,2 @@
+- name: Assign to One Project
+  uses: srggrs/assign-one-project-github-action@1.2.1
